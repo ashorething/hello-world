@@ -10,9 +10,10 @@ so much!!!!!!!!!!!!!!!!!!!1
 doireann
 
 claire again
-<<<<<<< HEAD
+
 doireann
-=======
+
 
 claire again 2
->>>>>>> origin/master
+
+stephen
